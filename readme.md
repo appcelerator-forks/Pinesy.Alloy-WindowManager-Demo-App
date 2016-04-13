@@ -1,4 +1,4 @@
-# Alloy WindowManager Demo App
+# Titanium/Alloy WindowManager Demo App
 Alloy Window Manager Helper Library
 
 [![License](http://img.shields.io/badge/license-MIT-orange.svg)](http://mit-license.org)
