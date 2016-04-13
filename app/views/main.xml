@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<Button onClick="goToHome">Go TO HOME</Button>
+	</Window>
+</Alloy>

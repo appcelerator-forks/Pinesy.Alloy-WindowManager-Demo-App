@@ -1,0 +1,13 @@
+<Alloy>
+	<Window class="container"
+					layout="vertical">
+		<Button onClick="goToMain"
+						top="10%">Go TO MAIN</Button>
+		<Button onClick="openDirect">open window directly</Button>
+		<ScrollView id="scrolly"
+						width="100%"
+						layout="horizontal"
+						contentWidth="auto"
+						height="Ti.UI.SIZE"></ScrollView>
+	</Window>
+</Alloy>
